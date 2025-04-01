@@ -1,14 +1,15 @@
-#AutoZsh Setup Script
-##Overview
+# AutoZsh Setup Script
+
+## Overview
 
 This script automates the process of installing Zsh and setting up Oh My Zsh with popular plugins, including Powerlevel10k and Zsh Autosuggestions. If you're like me and often need to install Zsh on new devices, this script will save you time by automating the basic setup.
-Prerequisites
+## Prerequisites
 
-    This script is designed to run on systems with bash and sudo access.
+This script is designed to run on systems with bash and sudo access.
 
     Make sure curl is installed on your system.
 
-##How to Use
+## How to Use
 
     Download the Script: Download the autozsh_script.sh to your desired location.
 
@@ -34,19 +35,19 @@ Run the Script: After making it executable, run the script with the following co
 
         Reload your shell to apply the changes.
 
-Steps Automated by the Script
+## Steps Automated by the Script
 
-    Install Zsh:
+    Install Zsh
 
-    Install Oh My Zsh:
+    Install Oh My Zsh
 
-    Install Powerlevel10k Theme:
+    Install Powerlevel10k Theme
 
-    Install Zsh Autosuggestions:
+    Install Zsh Autosuggestions
 
-    Install Fast Syntax Highlighting:
+    Install Fast Syntax Highlighting
 
-##Customization
+## Customization
 
 After running the script, open your ~/.zshrc and customize your environment by:
 
@@ -55,6 +56,6 @@ After running the script, open your ~/.zshrc and customize your environment by:
     Adding plugins like zsh-autosuggestions and fast-syntax-highlighting.
 
 
-##License
+## License
 
 This script is provided as-is with no warranty. Use at your own risk.
